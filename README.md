@@ -12,6 +12,9 @@ and enable LSM(Linux Security Module) in your grub configuration, and hit `make`
 
 <img width="2538" height="1139" alt="Screenshot from 2025-07-15 17-01-45" src="https://github.com/user-attachments/assets/bb9d3ad6-6655-41c7-a078-1235d75d6115" />
 
+<img width="1654" height="1238" alt="image" src="https://github.com/user-attachments/assets/97b42217-272e-4084-a515-8efbe3464a98" />
+
+
 ### Reference
 
 https://github.com/KnightChaser/lsm-bpf-capture-path
