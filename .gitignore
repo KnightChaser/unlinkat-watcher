@@ -1,3 +1,11 @@
+# eBPF project
+vmlinux.h
+unlink_tracer.skel.h
+unlink_tracer
+repomix-output.xml
+
+# =========================================================
+
 # Prerequisites
 *.d
 
