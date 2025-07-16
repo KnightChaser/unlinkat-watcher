@@ -5,8 +5,8 @@ I used LSM(Linux Security Module)'s [`path_unlink`](https://github.com/torvalds/
 
 If you or other processes delete files, `unlinkat-watcher` will print the log simultaneously.
 
-Prepare eBPF development environment(including `libbpf` package) on your Linux computer, 
-and enable LSM(Linux Security Module) in your grub configuration, and hit `make` to build this project.
+Prepare an eBPF development environment(including the `libbpf` package) on your Linux computer. 
+And enable LSM(Linux Security Module) in your grub configuration, and hit `make` to build this project.
 
 ### Screenshot
 
